@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Gaby/AndroidStudioProjects/pruebaWear/wear/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/lolo/Downloads/notifyWear-main/notifyWear-main/wear/src/main/res/layout/activity_main.xml" value="0.3502202643171806" />
+        <entry key="..\:/Users/lolo/Downloads/practicaWear-main/practicaWear-main/mobile/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14" />
+        <entry key="..\:/Users/lolo/Downloads/practicaWear-main/practicaWear-main/mobile/src/main/res/layout/activity_main.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/lolo/Downloads/practicaWear-main/practicaWear-main/wear/src/main/res/layout/activity_main.xml" value="0.3502202643171806" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
